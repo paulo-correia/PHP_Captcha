@@ -1,4 +1,4 @@
-# Geração de Captha em PHP
+# Geração de Captcha em PHP
 
 - - -
 
